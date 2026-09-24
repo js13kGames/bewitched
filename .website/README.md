@@ -1,4 +1,8 @@
 ---
+genres:
+  - platformer
+  - adventure
+  - action
 post: https://eoinmcgrath.com/pages/postmortem-bewitched.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
